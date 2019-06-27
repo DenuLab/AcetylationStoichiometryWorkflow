@@ -1,0 +1,9 @@
+condition,mean,std_dev,compartment
+aetyl_lysine_M1,0.107553968,0.043620512,cytosol
+aetyl_lysine_M1,0.019374117,0.038736335,mitochondria
+aetyl_lysine_M1,0.126559639,0.003407733,histone
+aetyl_lysine_M1,0.124677934,0.006267152,Nuclear nonhistone
+aetyl_lysine_M0,0.892446032,,cytosol
+aetyl_lysine_M0,0.980625883,,mitochondria
+aetyl_lysine_M0,0.873440361,,histone
+aetyl_lysine_M0,0.875322066,,Nuclear nonhistone

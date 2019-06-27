@@ -1,0 +1,17 @@
+mod,mean,std_dev,compartment
+acetyl,0.001048031,0.000282461,cytosol
+Me1,,,cytosol
+Me2,0.009943073,0.00176181,cytosol
+Me3,0.002785771,0.000473426,cytosol
+acetyl,0.000888195,0.00023435,mitochondria
+Me1,0.000635164,5.26E-05,mitochondria
+Me2,0.006515015,0.001275528,mitochondria
+Me3,0.00306068,0.000719859,mitochondria
+acetyl,0.013159069,0.00189287,histone
+Me1,0.009759322,0.00127277,histone
+Me2,0.030644645,0.004349592,histone
+Me3,0.005621064,0.001224458,histone
+acetyl,0.00447661,0.001091431,Nuclear nonhistone
+Me1,0.001882818,0.000550838,Nuclear nonhistone
+Me2,0.013929994,0.006453128,Nuclear nonhistone
+Me3,0.002522191,0.000940831,Nuclear nonhistone
